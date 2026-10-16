@@ -1,0 +1,2 @@
+# Copied from canvaskit-wasm by `npx setup-skia-web public` before each web build (src/ui/skia/ready.web.ts).
+canvaskit.wasm
