@@ -1,0 +1,16 @@
+{
+  "name": "Eden",
+  "short_name": "Eden",
+  "description": "Say it once. Eden brings it back at the right place and time.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0C0B09",
+  "theme_color": "#0C0B09",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
