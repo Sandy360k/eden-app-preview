@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.mahilabs.eden",
+      "sha256_cert_fingerprints": [
+        "FA:62:45:C4:FD:F5:BA:34:FD:51:24:94:2B:97:B2:21:DD:CA:54:B6:A3:D0:DE:2A:49:4F:0C:10:6C:E8:1B:DC"
+      ]
+    }
+  }
+]

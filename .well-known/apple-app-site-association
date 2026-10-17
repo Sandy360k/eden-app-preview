@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["K5WQQW5V8Q.dev.mahilabs.eden"],
+        "components": [
+          { "/": "/link", "comment": "Sign in on a computer: the QR's https://app.eden360.in/link?c=<code>" }
+        ]
+      }
+    ]
+  }
+}
